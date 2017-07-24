@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "files": [
-            "src/_bootstrap.php"
+            "src/__bootstrap.php"
         ]
     }
 }
